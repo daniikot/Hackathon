@@ -1,0 +1,55 @@
+.table {
+    width: 100%;
+    margin-bottom: 20px;
+    border-collapse: collapse;
+}
+
+.table th {
+    font-weight: bold;
+    padding: 5px;
+    background: #efefef;
+    border: 1px solid #dddddd;
+}
+
+.table td {
+    border: 1px solid #dddddd;
+    padding: 5px;
+}
+
+.table tr td:first-child,
+.table tr th:first-child {
+    border-left: none;
+}
+
+.table tr td:last-child,
+.table tr th:last-child {
+    border-right: none;
+}
+
+.LinksDocs {
+    display: flex;
+    justify-content: center;
+}
+
+.buttonsRole {
+
+    /* display: flex; */
+    justify-content: space-between;
+
+}
+
+.SwapRole {
+    margin-top: 1em;
+    justify-content: center;
+}
+
+.inputField {
+    display: flex;
+    justify-content: space-between;
+}
+
+.inputArea {
+    margin-top: 4em;
+
+}
+

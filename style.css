@@ -1,0 +1,22 @@
+.inputField{
+  display: flex;
+	justify-content: space-between;
+}
+
+.inputArea{
+  margin:25% 25% 25% 25%;
+
+}
+
+#Login{
+  width: 10em;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#Password{
+  width: 10em;
+  margin-left: auto;
+  margin-right: auto;
+}
+
